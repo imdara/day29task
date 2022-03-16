@@ -4,15 +4,15 @@
 }
 
 .MuiToolbar-root {
-  background-color: rgb(180, 75, 75);
+  background-color: lightpink;
 }
 
 .MuiListItemButton-root.MuiListItemButton-gutters.MuiButtonBase-root {
-  color: #858796;
+  color: rgb(180, 75, 75);
 }
 
 .MuiSvgIcon-root {
-  color: #858796;
+  color: rgb(180, 75, 75);
 }
 
 .MuiButton-root.MuiButton-contained {

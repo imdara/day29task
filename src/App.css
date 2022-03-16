@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.MuiToolbar-root {
+  background-color: rgb(180, 75, 75);
+}
+
+.MuiListItemButton-root.MuiListItemButton-gutters.MuiButtonBase-root {
+  color: #858796;
+}
+
+.MuiSvgIcon-root {
+  color: #858796;
+}
+
+.MuiButton-root.MuiButton-contained {
+  background-color: rgb(180, 75, 75);
+  margin: 7px;
+}
+
+.MuiButton-root.MuiButton-text {
+  color: rgb(180, 75, 75);
+  margin: 7px;
+}
+
+.profiles {
+  color: rgb(180, 75, 75);
+}
+
+.viewuser {
+  text-align: center;
+}

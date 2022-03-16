@@ -1,0 +1,9 @@
+firered/red/gree/blue/leafgreen: 1
+gold/silver/crystal/heartgold: 152
+ruby/sapphire/emerald: 252
+diamond/pearl/platinum: 387
+black/white: 495
+x/y: 650
+sun/moon: 722
+sword/shield: 810
+
